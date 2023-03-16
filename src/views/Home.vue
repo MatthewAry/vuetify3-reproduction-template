@@ -1,6 +1,6 @@
 <template>
   <VContainer>
-    <div>↑ This Tab should be selected</div>
+    <div>The Home Tab should be selected</div>
     <div class="text-h1">
       Home Page
     </div>
